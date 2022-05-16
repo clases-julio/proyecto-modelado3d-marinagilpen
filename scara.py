@@ -1,8 +1,7 @@
 import bpy
 from bpy import data
 from bpy import context 
-from mathutils import *
-from math import *
+
 '''*********************************************************************'''
 '''Funciones comunes útiles para selección/activación/borrado de objetos'''
 '''*********************************************************************'''
