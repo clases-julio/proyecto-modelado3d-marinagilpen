@@ -1,2 +1,6 @@
-# proyecto-modelado3d-marinagilpen
-proyecto-modelado3d-marinagilpen created by GitHub Classroom
+# Proyecto robot SCARA 
+
+
+<p align="center">
+<img src="./scara.png">
+</p align>
